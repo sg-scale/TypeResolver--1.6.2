@@ -19,7 +19,7 @@ jobs:
 
   coding-standards:
     name: "Coding Standards"
-    uses: "phpDocumentor/.github/.github/workflows/coding-standards.yml@v0.1.0"
+    uses: "phpDocumentor/.github/.github/workflows/coding-standards.yml@v0.5.0"
     with:
       composer-root-version: "1.x-dev"
 
